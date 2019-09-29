@@ -1,3 +1,8 @@
 # information
 
-# You need install os, tkinter, platform, socket, getpass
+# You need install:
+* os
+* tkinter
+* platform
+* socket
+* getpass
