@@ -1,12 +1,12 @@
 # information
 
-#### You need install:
+## You need install:
 
-## 1) Install pip - https://pip.pypa.io/en/stable/installing/
+#### 1) Install pip - https://pip.pypa.io/en/stable/installing/
 
-## 2) Install Tkinter - pip install threadsafe-tkinter
+#### 2) Install Tkinter - pip install threadsafe-tkinter
 
-## 3) Install wmi - pip install WMI
+#### 3) Install wmi - pip install WMI
 
-## 4) Install win32net - pip install pywin32
+#### 4) Install win32net - pip install pywin32
 
